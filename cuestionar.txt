@@ -1,2 +1,4 @@
 ¿Para que sirve el git branch -a?
 Se utiliza para listar todas las ramas en un repositorio Git, incluidas las ramas locales y remotas.
+
+¿Cómo puedo ver la versión del git?
