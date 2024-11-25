@@ -5,3 +5,4 @@ Se utiliza para listar todas las ramas en un repositorio Git, incluidas las rama
 git -v
 
 ¿Cómo puedo clonar un proyecto en GitHub?
+Con el comando git clone y la url
