@@ -3,3 +3,5 @@ Se utiliza para listar todas las ramas en un repositorio Git, incluidas las rama
 
 ¿Cómo puedo ver la versión del git?
 git -v
+
+¿Cómo puedo clonar un proyecto en GitHub?
