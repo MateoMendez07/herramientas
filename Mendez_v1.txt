@@ -1,0 +1,2 @@
+Qué es versionamiento de código fuente?
+Pues es una técnica también conocida como control de versiones la cual nos permite gestionar, y rastrear cambios en el código, su propósito principal es facilitar la colaboración, el mantenimiento y la evolución del software, garantizando que el desarrollo sea eficiente y seguro.
