@@ -6,3 +6,5 @@ git -v
 
 ¿Cómo puedo clonar un proyecto en GitHub?
 Con el comando git clone y la url
+
+¿Para que sirve el comando git add .?
