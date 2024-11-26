@@ -9,3 +9,5 @@ Con el comando git clone y la url
 
 ¿Para que sirve el comando git add .?
 Mueve los cambios del directorio de trabajo al área del entorno de ensayo. Así puedes preparar una instantánea antes de confirmar en el historial oficial.
+
+¿Pará que sirve el git status?
